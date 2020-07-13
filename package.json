@@ -62,7 +62,7 @@
     "karma-mocha": "2.0.1",
     "karma-mocha-reporter": "2.2.5",
     "karma-webpack": "4.0.2",
-    "latest-snabbdom-release": "npm:snabbdom@0.7.4",
+    "latest-snabbdom-release": "npm:snabbdom@1.0.1",
     "lodash.shuffle": "4.2.0",
     "mathjs": "7.0.2",
     "mocha": "8.0.1",
